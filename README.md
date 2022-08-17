@@ -58,8 +58,8 @@ Hi there, I'm **Franklin O. Cáceres**, a new **Front-End developer**, I'm curre
 ![RohMedina's github stats](https://github-readme-stats.vercel.app/api?username=Franklin2018&show_icons=true&theme=highcontrast)
 
 
-<p align="center">:
-  <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=rohmedina.rohmedina" />
+<p align="center">
+    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Franklin2018" />
 
 </p>
 
