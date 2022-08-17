@@ -11,7 +11,6 @@
 
 Hi there, I'm **Franklin O. Cáceres**, a new **Front-End developer**, I'm currently improving my **JavaScript and VueJS skills**.  ðŸ‘¨ðŸ½â€ðŸ’¼. 
 
-  <img align="center" alt="GIF" src="https://geeksgod.com/wp-content/uploads/2020/05/Understanding-of-a-Web-Developer.png" />
 
 <br />
 <br />
