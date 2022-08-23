@@ -1,30 +1,16 @@
 ## I'm Franklin O. Caceres
 
-<a href="https://www.linkedin.com/in/rodrigo-medina-gatica/">
+<a href="https://www.linkedin.com/in/franklin-caceres-736649164/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/r000drigo/">
+<a href="https://www.instagram.com/franklin.ocj/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
 <br />
 <br />
-
-Hi there, I'm **Franklin O. Cáceres**, a new **Front-End developer**, I'm currently improving my **JavaScript and VueJS skills**.  ðŸ‘¨ðŸ½â€ðŸ’¼. 
-
-
+I am a full-stack developer in Santa Cruz - Bolivia, I have developed several academic projects throughout my time as a university student, using different types of programming languages and databases, passionate about the immense world of technology in search of new opportunities and acquire new knowledge and challenges that maximize my experience as a full-stack developer
 <br />
 <br />
-
-**Talking about Personal Stuffs:**
-
-
-- ðŸŒ± Practice pages [Link Netlify](https://app.netlify.com/teams/rohmedina/sites);
-- ðŸ¤” My interests are Front development and online marketing;
-- ðŸ’¬ Ask me about anything, I am happy to help;
-- ðŸ“« Please email via rmedina@wdromedina.com to reach me;
-- ðŸ”­ You can visit my [Portfolio](https://franklin2018.github.io/);
-- ðŸ“ See my [Curriculum Vitae](https://drive.google.com/file/d/1TlNeJv0G558Js3w_QErYXKVBoCZ5p29h/view?usp=sharing) to get more info;
-
 
 
 ---
